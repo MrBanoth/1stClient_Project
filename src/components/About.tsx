@@ -22,7 +22,7 @@ const About = () => {
           <div className={`transition-all duration-1000 delay-300 ${visible ? 'opacity-100 translate-x-0' : 'opacity-0 -translate-x-8'}`}>
             <div className="relative">
               <img 
-                src="public/images/red.png" 
+                src="https://raw.githubusercontent.com/MrBanoth/1stClient_Project/refs/heads/main/public/images/red.png" 
                 alt="Phani Madireddy" 
                 className="rounded-lg shadow-2xl w-full object-cover"
               />
